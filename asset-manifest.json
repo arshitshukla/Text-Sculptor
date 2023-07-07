@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/text-sculptor/static/js/main.49a83cda.js",
+    "index.html": "/text-sculptor/index.html",
+    "main.49a83cda.js.map": "/text-sculptor/static/js/main.49a83cda.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.49a83cda.js"
+  ]
+}
